@@ -1,4 +1,4 @@
-# :bowtie: Hey, I'm Esteban Martinez
+# 😄 Hey, I'm Esteban Martinez
 
 I'm an aspiring Software Engineer currently majoring in General Engineering at Texas A&M University. I graduated from South Texas College with an Associate's Degree in Computer Science I enjoy solving complex programming problems and expanding my skillset.
 Currently, I'm learning how to work with Databases!
