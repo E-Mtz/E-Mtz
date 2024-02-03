@@ -1,11 +1,11 @@
-# Esteban Martinez
+# :bowtie: Hey, I'm Esteban Martinez
 
-I'm an aspiring Software Engineer currently majoring in General Engineering at Texas A&M University. I enjoy solving complex programming problems and expanding my skillset.
+I'm an aspiring Software Engineer currently majoring in General Engineering at Texas A&M University. I graduated from South Texas College with an Associate's Degree in Computer Science I enjoy solving complex programming problems and expanding my skillset.
 Currently, I'm learning how to work with Databases!
 
 ---
 
-### Languages & Tools
+# 👨‍💻 Tech Stack
 
 <!-- Icons from https://devicon.dev/ -->
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -24,7 +24,7 @@ Currently, I'm learning how to work with Databases!
 <br/>
 
 #
-### Stats
+# 📊 Stats
 
 <!-- GitHub Stats from https://github.com/anuraghazra/github-readme-stats -->
 <!-- GitHub Streak from https://github.com/denvercoder1/github-readme-streak-stats -->
