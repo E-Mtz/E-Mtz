@@ -22,10 +22,10 @@ Currently, I'm learning how to work with Databases!
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
 <img align="left" alt="After Effects" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"/>
 
----
+### Stats
 
 ![Esteban's GitHub stats](https://github-readme-stats.vercel.app/api?username=E-Mtz&theme=shadow_red&show_icons=true])
-![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) --
+![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5)
           
 <details>
     <summary><h3>About Me</h3></summary>
