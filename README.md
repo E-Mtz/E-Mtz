@@ -25,7 +25,7 @@ Currently, I'm learning how to work with Databases!
 ### Stats
 
 ![Esteban's GitHub stats](https://github-readme-stats.vercel.app/api?username=E-Mtz&theme=shadow_red&show_icons=true])
-![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5)
+![GitHub Streak](https://streak-stats.demolab.com?user=E-Mtz&theme=shadow_red&border_radius=4.5)
           
 <details>
     <summary><h3>About Me</h3></summary>
