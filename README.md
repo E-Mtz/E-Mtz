@@ -24,7 +24,7 @@ Currently, I'm learning how to work with Databases!
 <br/>
 
 #
-# 📊 Stats
+<!-- # 📊 Stats >
 
 <!-- GitHub Stats from https://github.com/anuraghazra/github-readme-stats -->
 <!-- GitHub Streak from https://github.com/denvercoder1/github-readme-streak-stats -->
