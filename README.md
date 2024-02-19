@@ -28,8 +28,8 @@ Currently, I'm learning how to work with Databases!
 
 <!-- GitHub Stats from https://github.com/anuraghazra/github-readme-stats -->
 <!-- GitHub Streak from https://github.com/denvercoder1/github-readme-streak-stats -->
-![Esteban's GitHub stats](https://github-readme-stats.vercel.app/api?username=E-Mtz&theme=shadow_red&show_icons=true])
-![GitHub Streak](https://streak-stats.demolab.com?user=E-Mtz&theme=shadow_red&border_radius=4.5)
+<!-- ![Esteban's GitHub stats](https://github-readme-stats.vercel.app/api?username=E-Mtz&theme=shadow_red&show_icons=true]) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=E-Mtz&theme=shadow_red&border_radius=4.5) -->
           
 <details>
     <summary><h3>About Me</h3></summary>
