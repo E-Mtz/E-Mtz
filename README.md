@@ -1,6 +1,6 @@
 # 😄 Hey, I'm Esteban
 
-I'm an aspiring Software Engineer currently majoring in General Engineering at Texas A&M University. I graduated from South Texas College with an Associate's Degree in Computer Science I enjoy solving complex programming problems and expanding my skillset.
+I'm a student currently majoring in Computer Science at The University of Texas Rio Grande Valley. I graduated from South Texas College with an Associate's Degree in Computer Science I enjoy solving complex programming problems and expanding my skillset.
 Currently, I'm learning how to work with Databases!
 
 ---
@@ -41,6 +41,6 @@ Currently, I'm learning how to work with Databases!
     C, algorithms, and even Assembly Language. He opened my eyes to the world of Computer Science and helped me to realize the impact it has on the world.
     Moreover, an alumnus from my school and one of his former students returned to speak about his experience in the industry. He elaborated on projects
     he'd worked on, that thinking retrospectively he probably wasn't supposed to talk about. Nonetheless, I was fascinated. As if I wasn't sure of it already,
-    I was now one hundred percent convinced that I wanted to study Computer Science. That leads us to now I am currently a freshman studying General
-    Engineering at Texas A&M University Higher Education Center at McAllen. I hope to ETAM into Computer Science and aspire to be a Software Engineer
-    who makes an impactful and positive difference in the world.
+    I was now one hundred percent convinced that I wanted to study Computer Science. That leads us to now I am currently studying Computer Science at
+    The University of Texas Rio Grande Valley. Upon graduation I hope I can work in a way that makes a positive and impactful difference in the world.
+
