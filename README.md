@@ -1,6 +1,6 @@
 # 😄 Hey, I'm Esteban
 
-I'm a student currently majoring in Computer Science at The University of Texas Rio Grande Valley. I graduated from South Texas College with an Associate's Degree in Computer Science I enjoy solving complex programming problems and expanding my skillset.
+I'm an undergraduate student currently majoring in Computer Science at The University of Texas Rio Grande Valley. I graduated from South Texas College with an Associate's Degree in Computer Science I enjoy solving complex programming problems and expanding my skillset.
 Currently, I'm learning how to work with Databases!
 
 ---
@@ -43,4 +43,5 @@ Currently, I'm learning how to work with Databases!
     he'd worked on, that thinking retrospectively he probably wasn't supposed to talk about. Nonetheless, I was fascinated. As if I wasn't sure of it already,
     I was now one hundred percent convinced that I wanted to study Computer Science. That leads us to now I am currently studying Computer Science at
     The University of Texas Rio Grande Valley. Upon graduation I hope I can work in a way that makes a positive and impactful difference in the world.
+
 
